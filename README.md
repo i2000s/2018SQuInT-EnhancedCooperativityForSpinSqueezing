@@ -20,6 +20,8 @@ If you find the equations in the PDFs are not clear, zooming in might help you r
 Comments or discussions can go to the [issue page](https://github.com/i2000s/2018SQuInT-EnhancedCooperativityForSpinSqueezing/issues). 
 Released binary files can be downloaded through the [release channel](https://github.com/i2000s/2018SQuInT-EnhancedCooperativityForSpinSqueezing/releases). 
 
+Cite with the DOI: [![DOI](https://zenodo.org/badge/111471228.svg)](https://zenodo.org/badge/latestdoi/111471228)
+
 ## LICENSE
 
 Resources in this repository can be used and redistributed free of charge under the [Creative Commons ¡ª Attribution 4.0 International ¡ª CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/). 
